@@ -673,7 +673,7 @@ f)	Ngày Quốc Khánh: 02 ngày (ngày 02/9 dương lịch và 01 ngày liền 
 -	Thời gian làm thêm giờ được đối chiếu với dữ liệu từ máy chấm công với kế hoạch đã được phê duyệt để làm cơ sở cho việc tính lương thêm giờ.
 -	Thời gian làm thêm giờ phải theo kế hoạch được BGĐ/người ủy quyền phê duyệt.
 2.	Đối tượng áp dụng làm thêm giờ
--	Toàn bộ CBNV Công ty có đề xuất hoặc yêu cầu làm thêm giờ nhưng không bao gồm các đối tượng hưởng lương theo cơ chế đặc thù không theo thời gian như:
+-	Toàn bộ CBNV Công ty có đề xuất hoặc yêu cầu làm thêm giờ, trừ một số đối tượng:
 +	Cán bộ quản lý (Ban Giám đốc, các Trưởng phó phòng ban) từ hàm H5 trở lên.
 +	Các vị trí công việc không quản lý về thời gian: Kinh doanh, bảo vệ, lái xe, tạp vụ.
 +	Các trường hợp CBNV được cử đi công tác, đi họp hoặc tham dự các khóa huấn luyện.
