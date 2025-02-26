@@ -93,7 +93,6 @@ Ra mắt Smartphone Fami dành cho người lớn tuổi (08/2019).
 Ra mắt máy tính bảng dành cho trẻ em (08/2019).
 03/2020: Masscom thành lập 2 công ty con: Công ty Đầu tư và Công nghệ Massko và Công ty Công nghệ Giáo dục Nexta (Ngày 09/03 thành lập Nexta).
 08/2020: Ra mắt và công bố đại diện hình ảnh đồng hồ thông minh Masstel Dream Action.
-2020: Đầu tư vào hệ thống triển khai phần mềm ERP.
 11/2021: Ra mắt thương hiệu gia dụng Hotwell
 12/2021: Ra mắt thiết bị học tập tại nhà toàn diện dành cho học sinh Nexta Smart Study 1
 10/2023: Thành lập JoyStar - A TECHNOLOGY BRAND FOR CHILDREN
@@ -167,3 +166,76 @@ Các vị trí chủ chốt của Masscom
 - Trợ lý Chủ tịch: Phùng Thị Ngọc Thảo
 - Trưởng phòng hành chính: Hoàng Thị Phương Thảo
 - Phó phòng Công nghệ: Kiều Chiến Thắng
+- Trưởng Phòng mua hàng trong nước: Hoàng Thị Thanh Nga
+
+Danh sách chi tiết các sản phẩm của Masscom:
+• Điện thoại phổ thông 4G:
+◦ Masstel FAMI 60 4G
+◦ Masstel FAMI 8 4G
+◦ Masstel IZI 55 4G
+◦ Masstel Izi 10 4G
+◦ Masstel FAMI 65 4G
+◦ Masstel Lux 10 4G
+◦ Masstel Fami 12 4G
+◦ Masstel Lux 20 4G
+◦ Masstel Izi 20 4G (Phiên bản có camera)
+◦ Masstel Izi 26 4G
+◦ Masstel Izi 12 4G
+◦ Masstel Izi 25 4G
+• Máy tính bảng (Tablet):
+◦ Tablet Giáo dục Masstel Tab 10 Wifi
+◦ Tablet Giáo dục Masstel Tab 10M
+◦ Tablet Giáo dục Masstel Tab 10.1 PRO
+◦ Tablet giáo dục Masstel Tab 8 Edu
+◦ Tablet Giáo dục Masstel Tab 8A
+◦ Tablet Giáo dục Masstel Tab 8.1
+◦ Tablet Giáo dục Masstel Tab 10 A
+◦ Tablet Giáo dục Masstel Tab 10.4
+◦ Tablet Masstel Tab
+◦ Masstel Tab PLUS
+• Máy tính xách tay (Laptop):
+◦ Laptop Giáo dục Masstel E140
+◦ Laptop Masstel E116
+• Đồng hồ thông minh (Smartwatch):
+◦ Đồng hồ thông minh Zwatch Z6
+◦ Đồng hồ thông minh Zwatch Z8
+◦ Masstel Smart HERO 4G
+◦ Masstel Super HERO 4G
+◦ Masstel Smart HERO 10
+◦ Đồng hồ thông minh Zwatch Z1
+• Điện thoại thông minh (Smartphone):
+◦ Masstel Hapi 30
+◦ Masstel Hapi 15
+• Thương hiệu gia dụng Hotwell:
+◦ Nồi chiên không dầu
+◦ Nồi áp suất điện tử
+◦ Máy xay nấu đa năng
+◦ Nồi cơm điện tử
+◦ Bếp từ đơn
+◦ Bếp từ đôi
+◦ Nồi cơm điện tử
+◦ Ấm siêu tốc
+◦ Bàn là/Bàn ủi hơi nước cầm tay
+◦ Vợt muỗi
+◦ Máy xay sinh tố
+◦ Bếp hồng ngoại
+◦ Máy xay thịt
+◦ Nồi cơm điện cơ
+◦ Máy sấy tóc
+• Sản phẩm và giải pháp giáo dục Nexta:
+◦ Máy tính bảng học tập Nexta eTeacher
+◦ Máy tính bảng học tập Nexta Edutab Pro
+◦ Máy tính bảng học tập Smart Study 1
+◦ Máy tính bảng học tập Nexta Edutab Kid
+◦ Màn hình tương tác MaxHub E6521 cho giáo dục 65 Inch
+◦ Màn hình tương tác MaxHub E7521 cho giáo dục 75 Inch
+◦ Màn hình tương tác MaxHub E8620 cho giáo dục 86 Inch
+◦ Giải pháp lớp học thông minh
+◦ Giải pháp học tập cá nhân
+• Sản phẩm của Massko:
+◦ Laptop 4G
+◦ Thiết bị IoT
+◦ IP Camera, Smart Home
+◦ Thiết bị viễn thông CPE 4G, GPON ONU, Mesh Wifi
+◦ OEM/ODM Thiết bị di động
+◦ Kidwatch 4G, FT phone 4G
