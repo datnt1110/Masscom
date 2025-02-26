@@ -147,7 +147,7 @@ Hệ thống trung tâm bảo hành của Masscom có các địa điểm sau:
 •Cần Thơ: Số 320/19, Đường Trần Ngọc Quế, Phường Hưng Lợi, Quận Ninh Kiều.
 •Nghệ An: Số 42 Nguyễn Cảnh Hoan, Phường Quán Bàu, Thành phố Vinh.
 
-Hội đồng quản trị Masscom
+Hội đồng quản trị của Masscom gồm 5 thành viên
 - Chủ tịch: Nguyễn Sỹ Pháp
 - Thành viên: Lê Văn Dương
 - Thành viên: Lê Thanh Khương
@@ -155,7 +155,7 @@ Hội đồng quản trị Masscom
 - Thành viên: Dương An Thạch
 
 
-Các vị trí chủ chốt của Masscom
+Các vị trí Quản lý của Masscom
 - Chủ tịch: Nguyễn Sỹ Pháp
 - Tổng giám đốc: Lê Văn Dương
 - Phó tổng giám đốc: Lê Thanh Khương
